@@ -1,5 +1,4 @@
-const subjects = [
-  ['Math AI', '∑', 'violet'], ['Science AI', '⌬', 'blue'], ['English AI', 'Aa', 'coral'],
+
 const subjects = [
   ['Math AI', '∑', 'violet'], ['Science AI', '⌬', 'blue'], ['English AI', 'Aa', 'coral'],
   ['History & Social Studies', '⌘', 'gold'], ['Computer Science AI', '</>', 'green'],
