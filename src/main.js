@@ -1,4 +1,4 @@
-import './style.css';
+const subjects = [
 
 const subjects = [
   ['Math AI', '∑', 'violet'], ['Science AI', '⌬', 'blue'], ['English AI', 'Aa', 'coral'],
